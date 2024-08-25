@@ -1,4 +1,4 @@
-## TinyML Design Contest 2022: Award Winning Solution
+# TinyML Design Contest 2022: Award Winning Solution
 This repository contains the winning design from the 2022 TinyML Design Contest, which tasked participants with developing a binary classification model to discriminate life-threatening ventricular arrhythmias (VAs) from non-VAs using single-lead IEGM recordings. The model needed to excel in detection precision, memory occupation, and inference latency, making it suitable for deployment on resource-constrained microcontrollers.
 
 ## Project Overview
